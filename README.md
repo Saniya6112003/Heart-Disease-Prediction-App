@@ -1,13 +1,13 @@
-# Heart-Disease-Prediction-App
+
 
 # 💓 HeartWise: Heart Disease Risk Predictor
 
 ## Live Application
-Experience the app live: heart-disease-prediction-app-by-saniya.streamlit.app/
+Experience the app live: https://heart-disease-prediction-app-by-saniya.streamlit.app/
 
 ## 🌟 Overview
 
-### HeartWise is a user-friendly, interactive web application built with Streamlit and Machine Learning to provide a preliminary assessment of heart disease risk. By analyzing 13 key clinical features (derived from the UCI Heart Disease dataset), the app helps individuals and healthcare professionals quickly visualize data and estimate a patient's likelihood of having heart disease.
+ HeartWise is a user-friendly, interactive web application built with Streamlit and Machine Learning to provide a preliminary assessment of heart disease risk. By analyzing 13 key clinical features (derived from the UCI Heart Disease dataset), the app helps individuals and healthcare professionals quickly visualize data and estimate a patient's likelihood of having heart disease.
 
 This tool aims to offer an accessible way to understand individual risk factors and serves as a powerful demonstration of predictive analytics in a public health context.
 
